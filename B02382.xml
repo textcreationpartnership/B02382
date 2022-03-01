@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of a letter written from Rome, July 14th. 1691. about the chusing of a Pope.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02382</idno>
+            <idno type="STC">Wing C6172B</idno>
+            <idno type="STC">ESTC R175829</idno>
+            <idno type="EEBO-CITATION">52211998</idno>
+            <idno type="OCLC">ocm 52211998</idno>
+            <idno type="VID">175607</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175607)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2742:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of a letter written from Rome, July 14th. 1691. about the chusing of a Pope.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwin, near the Oxford-Arms in Warwick-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: creased with slight loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Innocent --  XII, --  Pope, 1615-1700.</term>
+               <term>Popes --  Election --  17th century --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:175607:1" rendition="simple:additions"/>
+            <head>A COPY of a LETTER Written from <hi>ROME, July</hi> 14th. 1691.</head>
+            <head type="sub">ABOUT THE Chuſing of a POPE.</head>
+            <p>THE Cardinals being extream uneaſie by rea<g ref="char:EOLhyphen"/>ſon of the exceſſive Heat and other Incon<g ref="char:EOLhyphen"/>veniencies of the Conclave, came at laſt to the Choſing of a Pope. The Honour of this great <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Cantelmi</hi> and <hi>Giudici;</hi> for ſeeing that the Difficulties for <hi>Barberigo, Ac<g ref="char:EOLhyphen"/>ciaioli, Conti,</hi> and <hi>Marcſcotti</hi> were inſurmountable, they at laſt carried on the Intrigue for Cardinal <hi>Pignatelli,</hi> but with ſo much Cunning, that the <hi>French</hi> were the firſt that propoſed him: <hi>Guidici</hi> ſeem'd to be very cold about it, ſaying, the King of <hi>Spain</hi> his Maſter would not like him by reaſon of ſome Difference that had happened formerly at <hi>Naples.</hi> This made the <hi>French</hi> Cardinals, the Party of <hi>Ottoboni</hi> and <hi>Alteri,</hi> and ſome of the Zealots more eager, and they all ſolemnly declared for him. The <hi>Spaniards</hi> finding they had catch'd the <hi>French,</hi> gave him immediately their Votes, followed by the reſt of the Zealots and the whole Party of <hi>Chigi.</hi> Whereupon the <hi>French,</hi> being ſenſible of their Miſtake, endeavoured to go off again, and deſired the Choice of a Pope ſhould be put off for three days; but Cardinal <hi>Gortz</hi> oppoſed it, telling them, they were no Boys, but Cardinals; that they had given their
+<pb n="2" facs="tcp:175607:2"/>Votes once for him, and muſt not now retract it; where<g ref="char:EOLhyphen"/>upon <hi>Gortz</hi> and <hi>Medici</hi> employed all their Endeavours to promote the Buſineſs; they miſs'd twice their Ends, but at the third time they had ſo good Succeſs, that Thurſday laſt about Ten a Clock at Night, the Number of the Votes for <hi>Pignatelli</hi> amounted to 54, (amongſt which were thoſe of <hi>Lauria</hi> and <hi>Spinola,</hi> that went but juſt return'd to the Conclave) and about Three a Clock in the Morning the Choice of <hi>Pignatelli</hi> was made known by the Diſcharge of all the Cannon from the Caſtle of St. <hi>Angelo,</hi> and the Ringing of the Bells. The new Pope is 76 Years and four Months of Age: He has aſſumed the Name of <hi>Innocentius</hi> XII. and has declared, That as he has the ſame Name of <hi>Innocentius Odeſchalchi,</hi> ſo he intended to follow exactly his foot-ſteps, deſiring withal, that all the Doctors and Ser<g ref="char:EOLhyphen"/>vants that attended that Pope, ſhould alſo ſerve him, to the excluſion of his own Domeſticks. He has alſo ſo<g ref="char:EOLhyphen"/>lemnly declared, that he would endure no <hi>Nepotiſm</hi> nor any of his Kindred about him. Amongſt the Miniſters, he has confirmed the Cardinal <hi>Panciatici</hi> in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Datary; <hi>Albani</hi> in that of Secretary of the Secret Brevets. The Marqueſſes <hi>Aſtalli</hi> and <hi>Cavallieri</hi> in that of Captains of the Guards, <hi>Mario Spinola</hi> in that of Secretary of the Secret Brevets ſent to Princes, and <hi>Nurſi</hi> in that of Commiſſary of the Chamber. He has choſen the Abbot <hi>Antaldi</hi> to his Auditor, the Abbot <hi>Fabroni</hi> to his Secretary of the Memorials, the Abbot <hi>Ricci</hi> to Secretary of the <hi>Cifres,</hi> the Abbot <hi>Bernardin,</hi> a <hi>Dominican,</hi> to his Confeſſor, and <hi>Criſpoldi Coppieri,</hi> and <hi>Campo Reale</hi> (Secretaries to the <hi>Spaniſh</hi> Embaſſador) to his Chamberlains. He has alſo had a Conference with <hi>Alteri</hi> about filling up the Place of Chief Miniſter and Secretary of State, and ſome ſay Car<g ref="char:EOLhyphen"/>dinal <hi>Spada,</hi> and others <hi>Imperiali</hi> and <hi>Cantelmi</hi> ſtand faireſt for it. Yeſterday <hi>Te Deum</hi> was ſung, to Morrow is to be the Coronation-day, and Monday next is the day de<g ref="char:EOLhyphen"/>ſigned for the Cavalcade to <hi>Monte Cavallo.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. Baldwin,</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick-Lane.</hi> 1691</p>
+         </div>
+      </back>
+   </text>
+</TEI>
